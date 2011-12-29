@@ -1,0 +1,16 @@
+h1. JSONWeb
+
+h2. Basic Idea
+
+* Create a website where the backend simply provides renderable json - i.e. data and some information about how it should be rendered - such as table with class whatever.
+* Create libraries suited towards creating markup, not just traversing and altering it.
+* Create simple ways for ajax delivery of json to be handled
+* Ensure that rendering is done in a fairly manageable and async way so that the page doesn't get smashed by long lists
+* Not necessarily intended to support huge sites or lots of data - easy to create a simple, pretty, fast site simply by creating json.
+* Sites content is available via an api - preferable restful
+
+h2. Libraries
+I want to create some libraries to make this whole thing much cleaner and nicer, I also want them to be seperate from this framework/experiment for easier reuse
+
+* "mcreate":https://github.com/jec006/mcreate - easily create dom elements
+* "renderable":https://github.com/jec006/renderable - create a way to render js objects in a simple way
