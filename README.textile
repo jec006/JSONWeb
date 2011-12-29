@@ -10,6 +10,7 @@ h2. Basic Idea
 * Sites content is available via an api - preferable restful
 
 h2. Libraries
+
 I want to create some libraries to make this whole thing much cleaner and nicer, I also want them to be seperate from this framework/experiment for easier reuse
 
 * "mcreate":https://github.com/jec006/mcreate - easily create dom elements
