@@ -13,5 +13,7 @@ h2. Libraries
 
 I want to create some libraries to make this whole thing much cleaner and nicer, I also want them to be seperate from this framework/experiment for easier reuse
 
+Right now they are included as git submodules.
+
 * "mcreate":https://github.com/jec006/mcreate - easily create dom elements
 * "renderable":https://github.com/jec006/renderable - create a way to render js objects in a simple way
