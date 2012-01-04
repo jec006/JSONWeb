@@ -1,0 +1,20 @@
+{
+  "tag" : "div",
+  "attributes" : {
+    "className" : "container",
+    "id" : "main"
+  },
+  "content" : [
+    {
+      "tag" : "span",
+      "attributes" : {
+	"className" : "content"
+      },
+      "content" : "This is some content"
+    },
+    {
+      "tag" : "p",
+      "content" : "This is a paragraph with some various content.  It includes some for text formatting. Like a line break <br/> and some <strong>Bold</strong> text and all."
+    }
+  ]
+}
