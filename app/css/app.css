@@ -1,0 +1,48 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin:0;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size:12px;
+}
+
+#main-wrapper {
+	height: 100%;
+	min-height: 600px;
+	width: 100%;
+	margin:0;
+	display:block;
+}
+
+#header.processed {
+	padding: 10px 0 10px 150px;
+	background-color:#222;
+	opacity:.75;
+	width:350px;
+	margin-top:20px;
+}
+
+h1.page-title {
+	color: #eee;
+	font-weight: bold;
+	margin: 1px 0;
+	font-size:20px;
+}
+
+h2.sub-title {
+	color: #eee;
+	font-weight: normal;
+	font-size:1.1em;
+	margin: 0 0 0 40px;
+	padding:0;
+}
+
+a:active,a:visited,a:link {
+	color:#eee;
+}
+
+a:hover {
+	color:#333;
+
+}

@@ -1,0 +1,26 @@
+{
+	"tag" : "div",
+	"attributes" : {
+		"className" : "wrapper"
+	},
+	"content" : [
+		{
+			"tag" : "h1",
+			"attributes" : {
+				"className" : "page-title"
+			},
+			"content" : "Welcome to jec006.com."
+		},
+		{
+			"tag" : "h2",
+			"attributes" : {
+				"className" : "sub-title"
+			},
+			"content" : "The development site of <a href='http://joshecaldwell.com'>Josh Caldwell</a>"
+		}
+	],
+	"animate" : {
+		"which" : "parent",
+		"method" : "scrollInRight"
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"tag" : "div",
+	"attributes" : {
+		"className" : "wrapper",
+		"id" : "main-wrapper"
+	},
+	"content" : [
+		{
+			"tag" : "div",
+			"attributes" : {
+				"className" : "container",
+				"id" : "header"
+			},
+			"content" : ""
+		},
+		{
+			"tag" : "div",
+			"attributes" : {
+				"className" : "container",
+				"id" : "menu"
+			},
+			"content" : ""
+		},
+		{
+			"tag" : "div",
+			"attributes" : {
+				"className" : "container content",
+				"id" : "content"
+			},
+			"content" : ""
+		}
+	],
+	"background" : "../img/white_tree.jpg"
+}
